@@ -44,6 +44,7 @@ const config = {
     'Electron.js',
     'MySQL',
     'MongoDB',
+    'NeDB',
     'Git',
     'Docker',
     'CSS',
